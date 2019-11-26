@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">mooDrink</string>
     <string name="welcome">~Добро пожаловать в mooDrink~</string>
+    <string name="buttonTest">Пройти тест</string>
+    <string name="buttonRandom">Случайный напиток</string>
+    <string name="buttonInfo">О приложении</string>
 </resources>
