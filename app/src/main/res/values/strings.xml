@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">mooDrink</string>
+    <string name="welcome">~Добро пожаловать в mooDrink~</string>
 </resources>
